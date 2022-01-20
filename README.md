@@ -7,7 +7,7 @@
   <a href="https://edu.nextstep.camp/c/R89PYi5H" alt="nextstep atdd">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fedu.nextstep.camp%2Fc%2FR89PYi5H">
   </a>
-</p>
+</p> 
 
 <br>
 
